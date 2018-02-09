@@ -1,4 +1,4 @@
-Are you looking for the privacy policy? [https://stekeblad.github.io/Stekeblads-Video-Uploader/privacy_policy](https://stekeblad.github.io/Stekeblads-Video-Uploader/privacy_policy)
+
 
 Stekeblads Video Uploader is a program made to make it easier to bulk-upload
  videos to youtube by offering features like
@@ -7,5 +7,15 @@ Stekeblads Video Uploader is a program made to make it easier to bulk-upload
  and saving all this as presets. Off course can details for individual
  videos be edited before uploading. Read more about it here:
  [https://github.com/Stekeblad/Stekeblads-Video-Uploader](https://github.com/Stekeblad/Stekeblads-Video-Uploader)
- and on the wiki:
+ 
+ And on the wiki:
  [https://github.com/Stekeblad/Stekeblads-Video-Uploader/wiki](https://github.com/Stekeblad/Stekeblads-Video-Uploader/wiki)
+ 
+ I have also recorded a short video introduction that can be view on YouTube: [https://www.youtube.com/playlist?list=PLAA2832YwTI9mddiWDeZ_RDnIjaBa8dP-](https://www.youtube.com/playlist?list=PLAA2832YwTI9mddiWDeZ_RDnIjaBa8dP-)
+
+
+
+
+
+
+ [Privacy Policy](https://stekeblad.github.io/Stekeblads-Video-Uploader/privacy_policy)
