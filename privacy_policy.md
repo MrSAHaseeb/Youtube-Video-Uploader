@@ -24,7 +24,7 @@ given permission to access your YouTube channel).
 **Saved Locally:** Stekeblads Video Uploader saves all its settings in one place, 
 the "uploader data" directory located at the same place as the program's .jar-file. 
 To delete all local data the program uses you can either delete said directory or 
-go into the settings window and press the "CLEAR STORED DATA"-button. 
+go into the settings window and press the "CLEAR STORED DATA"-button (settings window {was/will be} added in version 1.2.) 
 This is a (incomplete) list showing what type of information is saved and what it is used for:
 - Data retrieved from YouTube 
   - A list of all your playlists - 
